@@ -1,1 +1,2 @@
-This is hotel site in which we get infromation about one hotel
+This Is Simple ASP.NET webisite in Which We Only Display The Information About Only One Particular Hotel.
+
